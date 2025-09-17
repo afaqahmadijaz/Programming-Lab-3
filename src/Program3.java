@@ -1,8 +1,8 @@
 //********************************************************************
 //
-//  Author:       <Your name>
+//  Author:       Afaq Ahamd
 //
-//  Program #:    1
+//  Program #:    3
 //
 //  File Name:    ProgramTemplate.java
 //
@@ -14,7 +14,8 @@
 //
 //  Chapter:      Chapter 3:  Introduction to Classes
 //
-//  Description:  <An explanation of what the program is designed to do>
+//  Description:  This program creates an Employee class with first name, last name, and monthly salary,
+//  then main test class that displays two employees’ yearly salaries, applies a 20% raise, and shows the updated yearly salaries.
 //
 //********************************************************************
 
