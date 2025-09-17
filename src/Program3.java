@@ -15,7 +15,7 @@
 //  Chapter:      Chapter 3:  Introduction to Classes
 //
 //  Description:  This program creates an Employee class with first name, last name, and monthly salary,
-//  then main test class that displays two employees’ yearly salaries, applies a 20% raise, and shows the updated yearly salaries.
+//                then main test class that displays two employees’ yearly salaries, applies a 20% raise, and shows the updated yearly salaries.
 //
 //********************************************************************
 
